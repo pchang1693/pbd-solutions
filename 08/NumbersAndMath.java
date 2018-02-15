@@ -1,5 +1,5 @@
-public class NumbersAndMath{
-    public static void main (String[] args){
+public class NumbersAndMath {
+    public static void main(String[] args) {
         //Prints a statement
         System.out.println("I will now count my chickens:");
         //Calculates 25.0 plus 5.0
