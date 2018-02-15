@@ -1,5 +1,5 @@
-public class YourInitials{
-    public static void main (String[] args){
+public class YourInitials {
+    public static void main(String[] args) {
         System.out.println("For the name Portia I. Chang...");
         System.out.println();
         System.out.println("PPPPP   IIIIIII    CCC  ");
