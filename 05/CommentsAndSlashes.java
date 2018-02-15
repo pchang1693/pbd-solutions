@@ -1,7 +1,7 @@
 //Name: Portia Chang      Date: February 13, 2018
 //I was right about the two slashes: they create comments.
-public class CommentsAndSlashes{
-    public static void main (String[] args){
+public class CommentsAndSlashes {
+    public static void main(String[] args) {
         //A comment, this is so you can read your program later.
         //Anything after the // is ignored by Java.
 
