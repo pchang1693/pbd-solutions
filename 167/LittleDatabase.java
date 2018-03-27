@@ -12,9 +12,9 @@ public class LittleDatabase {
         Scanner sc = new Scanner(System.in);
         
         Student[] arr = new Student[3];
-        for (int i = 0; i < arr.length; i++) {
-            arr[i] = new Student();
-        }
+        arr[0] = new Student();
+        arr[1] = new Student();
+        arr[2] = new Student();
         
         System.out.print("Enter the first student's name: ");
         arr[0].name = sc.next();
